@@ -13,24 +13,24 @@ This repo contains slides and material from my past talks.
 # Additional Resources
 
 ## 2015-10-24 - Pycon 2015 - Spark, Leveraging the Functional Model
-https://www.youtube.com/watch?v=f8cthzz4K5Q
+- https://www.youtube.com/watch?v=f8cthzz4K5Q
 
 ## CorkBlockchain #1
-https://www.youtube.com/watch?v=9XgJ1JIYk0U
+- https://www.youtube.com/watch?v=9XgJ1JIYk0U
 
 ## Cork AI
-https://github.com/CorkAI/Meetup6
-https://www.youtube.com/watch?v=e19I3-y5-lA
+- https://github.com/CorkAI/Meetup6
+- https://www.youtube.com/watch?v=e19I3-y5-lA
 
 ## University of Nicosia - Fianza Case Study
-https://www.youtube.com/watch?v=tLEmaTOntmU
-https://www.youtube.com/watch?v=optqYF5TRuo
+- https://www.youtube.com/watch?v=tLEmaTOntmU
+- https://www.youtube.com/watch?v=optqYF5TRuo
 
 ## Pycon 2019
-https://github.com/codinguncut/leveraging_public_apis
+- https://github.com/codinguncut/leveraging_public_apis
 
 ## CorkSec 77 - Screen Recording
-https://www.youtube.com/watch?v=M36q1Evz0UQ
+- https://www.youtube.com/watch?v=M36q1Evz0UQ
 
 
 ## TODO
