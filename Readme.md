@@ -8,7 +8,7 @@ This repo contains slides and material from my past talks.
 * [2019-02-19 - CorkJUG - Kafka, Spark](./2019-02-19%20-%20CorkJUG%20-%20Kafka%2C%20Spark%20v2)
 * [2018 talks](./2018)
 * [2017 talks](./2017)
-* [2016 talks](./2018)
+* [2016 talks](./2016)
 * [2015 talks](./2015)
 
 
