@@ -2,6 +2,16 @@
 
 This repo contains slides and material from my past talks.
 
+* [2019-11-12 - CorkSec #77 - Android Privacy v3.pdf](./2019-11-12%20-%20CorkSec%20%2377%20-%20Android%20Privacy%20v3)
+* [2019-10-15 - PyCon 2019 - Leveraging Public APIs for Machine Learning Datasets v2/](./2019-10-15%20-%20PyCon%202019%20-%20Leveraging%20Public%20APIs%20for%20Machine%20Learning%20Datasets%20v2)
+* [2019-03-12 - CorkSec #69 - Deanonymization of Blockchain Users](./2019-03-12%20-%20CorkSec%20%2369%20-%20Deanonymization%20of%20Blockchain%20Users)
+* [2019-02-19 - CorkJUG - Kafka, Spark](./2019-02-19%20-%20CorkJUG%20-%20Kafka%2C%20Spark%20v2)
+* [2018 talks](./2018)
+* [2017 talks](./2017)
+* [2016 talks](./2018)
+* [2015 talks](./2015)
+
+
 ## Resources
 - https://sensatus.io
 - https://twitter.com/johannes_cork
