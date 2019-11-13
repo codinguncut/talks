@@ -1,9 +1,19 @@
+# Talks and Presentations
 
-## Pycon 2015
+This repo contains slides and material from my past talks.
+
+## Resources
+- https://sensatus.io
+- https://twitter.com/johannes_cork
+- https://www.linkedin.com/in/johannes-ahlmann/
+- https://corkblockchain.com
+- email: johannes (at) sensatus (dot) io
+
+
+# Additional Resources
+
+## 2015-10-24 - Pycon 2015 - Spark, Leveraging the Functional Model
 https://www.youtube.com/watch?v=f8cthzz4K5Q
-
-## Pycon 2016
-https://github.com/codinguncut/pycon2016
 
 ## CorkBlockchain #1
 https://www.youtube.com/watch?v=9XgJ1JIYk0U
@@ -22,12 +32,6 @@ https://github.com/codinguncut/leveraging_public_apis
 ## CorkSec 77 - Screen Recording
 https://www.youtube.com/watch?v=M36q1Evz0UQ
 
-## Resources
-- https://corkblockchain.com
-- https://sensatus.io
-- https://twitter.com/johannes_cork
-- https://www.linkedin.com/in/johannes-ahlmann/
-- email: johannes (at) sensatus (dot) io
 
 ## TODO
 - attribute/ clean up images
@@ -35,4 +39,3 @@ https://www.youtube.com/watch?v=M36q1Evz0UQ
 - IMI Data Business
 - open source intelligence jupyter notebook
 - pycon 2016 jupyter notebook
-- link to 
