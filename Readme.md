@@ -25,6 +25,9 @@ This repo contains slides and material from my past talks.
 ## 2015-10-24 - Pycon 2015 - Spark, Leveraging the Functional Model
 - https://www.youtube.com/watch?v=f8cthzz4K5Q
 
+## 2016-11-06 - Pycon 2016
+- https://www.youtube.com/watch?v=1BjiTC5O_rc
+
 ## CorkBlockchain #1
 - https://www.youtube.com/watch?v=9XgJ1JIYk0U
 
